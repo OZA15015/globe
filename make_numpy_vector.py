@@ -22,16 +22,19 @@ def pickle_load(path):
 
 arr = np.empty((0, 200), dtype = 'float32')
 #embeddings_dict = read_glove()
-#i = 0
-
+i = 0
+check_list = []
 for file_name in pickle_dir:
     dic = pickle_load('/home/oza/pre-experiment/glove/200d_dic/' + file_name)
     print(file_name)
+    i += 1
     for mykey in dic.keys():
-        arr = np.append(arr, dic[mykey])
-        arr = arr.reshape(-1, 200)
+        if mykey not in check_list: #複数カテゴリにまたがる単語を重複させない, 1つにする
+            check_list.append(mykey)
+            arr = np.append(arr, dic[mykey])
+            arr = arr.reshape(-1, 200)
     #print(np.all(arr[0] == embeddings_dict['ammo']))
-    #複数のカテゴリに属する単語があるけど, 除けていない
+
 
 print(arr.shape)
-    
+print(str(i) + "ファイル")    
