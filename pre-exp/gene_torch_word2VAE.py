@@ -29,6 +29,18 @@ device = 'cuda'
 random.seed(64)
 
 
+
+
+ 
+
+
+
+
+
+
+
+
+
 class MNISTDataset(Dataset):
     
     def __init__(self, transform=None):
@@ -61,7 +73,7 @@ class GloveDataset(Dataset):
         #mm = preprocessing.MinMaxScaler()
         #self.data_tensor = mm.fit_transform(self.data_tensor)
         self.indices = range(len(self))
-        #self.transform = transforms.ToTensor()
+        self.transform = transforms.ToTensor()
  
     def __getitem__(self, index1):
         index2 = random.choice(self.indices)
@@ -138,21 +150,21 @@ valid_loader = DataLoader(val_dataset,
 '''
 
 class VAE(nn.Module):
-    def __init__(self, z_dim):
+    def __init__(self, z_dim, s1, s2, s3, s4):
         super(VAE, self).__init__()
         #self.dense_enc1 = nn.Linear(28*28, 200)
-        self.dense_enc1 = nn.Linear(50, 37)
-        self.dense_enc2 = nn.Linear(37, 70)
-        self.dense_enc3 = nn.Linear(70, 16)
-        self.dense_enc4 = nn.Linear(16, 214)
-        self.dense_encmean = nn.Linear(214, z_dim)
-        self.dense_encvar = nn.Linear(214, z_dim)
-        self.dense_dec1 = nn.Linear(z_dim, 214)
-        self.dense_dec2 = nn.Linear(214, 16)
+        self.dense_enc1 = nn.Linear(50, s1)
+        self.dense_enc2 = nn.Linear(s1, s2)
+        self.dense_enc3 = nn.Linear(s2, s3)
+        self.dense_enc4 = nn.Linear(s3, s4)
+        self.dense_encmean = nn.Linear(s4, z_dim)
+        self.dense_encvar = nn.Linear(s4, z_dim)
+        self.dense_dec1 = nn.Linear(z_dim, s4)
+        self.dense_dec2 = nn.Linear(s4, s3)
         #self.dense_dec3 = nn.Linear(200, 28*28)
-        self.dense_dec3 = nn.Linear(16, 70)
-        self.dense_dec4 = nn.Linear(70, 37)
-        self.dense_dec5 = nn.Linear(37, 50)
+        self.dense_dec3 = nn.Linear(s3, s2)
+        self.dense_dec4 = nn.Linear(s2, s1)
+        self.dense_dec5 = nn.Linear(s1, 50)
  
     def _encoder(self, x):
         x = F.relu(self.dense_enc1(x))
@@ -200,7 +212,26 @@ class VAE(nn.Module):
         return KL + reconstruction
 
 
-def train(model, optimizer, i):
+def train(individual):
+    sou = []
+    cnt = 0
+    print("ind")
+    print(len(individual))
+    for p in range(int(len(individual) / 8)): #各ビット数/8部分
+        tmp = 0
+        for k in range(8): #長さ
+            if individual[cnt+k] != 0:
+                tmp += pow(2, k)
+            if k == (8-1):
+                cnt += k+1
+        if tmp == 0: #ここ変更
+            tmp +=1
+        sou.append(tmp)
+
+    model = VAE(10, sou[0], sou[1], sou[2], sou[3]).to(device)
+    optimizer = optim.Adam(model.parameters(), lr = 0.001)
+    model.train()
+    for i in range(100): #num epochs
         losses = []
         model.train()
         #for x, t in train_loader: #data, label
@@ -221,25 +252,18 @@ def train(model, optimizer, i):
             optimizer.step()
             losses.append(loss.cpu().detach().numpy())
         print("Epoch: {} train_loss: {}".format(i, np.average(losses)))
+    print("中間層群")
+    print(individual)
+    print(sou[0], end = "")
+    print(", ", end = "")
+    print(sou[1], end = "")
+    print(", ", end = "")
+    print(sou[2], end = "")
+    print(", ", end = "")
+    print(sou[3])
+    soukan = predict(model)
+    return soukan
  
-def test(model, optimizer, i):
-    losses = []
-    model.eval()
-    with torch.no_grad():
-        for x, t in valid_loader: #data, label
-            x = x.view(x.shape[0], -1)  
-            x = x.to(device)                       
-            y, mean, var, z = model(x)
-            #criterion = nn.L1Loss(size_average=False)
-            #loss = criterion(x, y)    
-            KL = -0.5 * torch.sum(1 + var - mean.pow(2) - var.exp())
-            #loss += KL
-            #loss /= batch_size
-            loss = model.loss(x, y, mean, var) / batch_size
-            #loss = nn.MSELoss(size_average=False)
-            #loss = loss(x, y)
-            losses.append(loss.cpu().detach().numpy())                 
-    print("Epoch: {} test_loss: {}".format(i, np.average(losses)))
 
 def predict(model):
     global token_array
@@ -252,20 +276,87 @@ def predict(model):
     ran_dim1_ab = np.array([cos_sim(z[ran_idx_x[i]], z[ran_idx_y[i]]) for i in range(len(ran_idx))])   
     print("************相関係数_dim1ver*******************")
     soukan =np.corrcoef(ran_cos_list, ran_dim1_ab)#重複なしの2単語間の相関係数(x:次元削減前のcos類似度, y:次元削減後(1)の差の絶対値)
-    print(ran_cos_list.shape)
-    print(ran_dim1_ab.shape)
     print(soukan[0][1])
+    return soukan[0][1]
+
+
+
+
+
+
+
+creator.create("FitnessMax", base.Fitness, weights=(1.0,)) #昇順,小さいのが良いとき
+creator.create("Individual", list, fitness=creator.FitnessMax)
+toolbox = base.Toolbox()
+ 
+toolbox.register("attr_bool", random.randint, 0, 1)
+toolbox.register("individual", tools.initRepeat, creator.Individual, toolbox.attr_bool, 32) #個体長,bit
+toolbox.register("population", tools.initRepeat, list, toolbox.individual)
+toolbox.register("evaluate", train)
+toolbox.register("mate", tools.cxTwoPoint)
+toolbox.register("mutate", tools.mutFlipBit, indpb=0.05)
+toolbox.register("select", tools.selTournament, tournsize=3)
+
 
 def main():
-    model = VAE(10).to(device)
-    optimizer = optim.Adam(model.parameters(), lr = 0.001)
-    #model.train()
-    for i in range(100): #num epochs
-        train(model, optimizer, i)
-        #test(model, optimizer, i)
-    #torch.save(model.state_dict(), "model1/128.pth")
-    predict(model)
- 
+    random.seed(64)
+
+    pop = toolbox.population(n=100) #1世代ごとの個体数
+    CXPB, MUTPB, NGEN = 0.5, 0.2, 40  #交叉率, 個体突然変異率, 世代数
+
+    print("Start of evolution")
+
+    fitnesses = list(map(toolbox.evaluate, pop))
+    for ind, fit in zip(pop, fitnesses):
+        ind.fitness.values = fit
+
+    print("  Evaluated %i individuals" % len(pop))
+
+    for g in range(NGEN):
+        print("-- Generation %i --" % g)
+
+        offspring = toolbox.select(pop, len(pop))
+        offspring = list(map(toolbox.clone, offspring))
+
+        for child1, child2 in zip(offspring[::2], offspring[1::2]):
+
+            if random.random() < CXPB:
+                toolbox.mate(child1, child2)
+                del child1.fitness.values
+                del child2.fitness.values
+
+        for mutant in offspring:
+
+            if random.random() < MUTPB:
+                toolbox.mutate(mutant)
+                del mutant.fitness.values
+
+        invalid_ind = [ind for ind in offspring if not ind.fitness.valid]
+        fitnesses = map(toolbox.evaluate, invalid_ind)
+        for ind, fit in zip(invalid_ind, fitnesses):
+            ind.fitness.values = fit
+
+        print("  Evaluated %i individuals" % len(invalid_ind))
+
+        pop[:] = offspring
+
+        fits = [ind.fitness.values[0] for ind in pop]
+
+        length = len(pop)
+        mean = sum(fits) / length
+        sum2 = sum(x*x for x in fits)
+        std = abs(sum2 / length - mean**2)**0.5
+
+        print("  Min %s" % min(fits))
+        print("  Max %s" % max(fits))
+        print("  Avg %s" % mean)
+        print("  Std %s" % std)
+
+    
+    print("-- End of (successful) evolution --")
+    best_ind = tools.selBest(pop, 1)[0]
+    print("Best individual is %s, %s" % (best_ind, best_ind.fitness.values))
+
 if __name__ == "__main__":
     main()                
 
