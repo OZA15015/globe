@@ -26,19 +26,7 @@ from sklearn.datasets import fetch_openml
 from sklearn.model_selection import train_test_split
 batch_size = 256
 device = 'cuda'
-random.seed(64)
-
-
-
-
- 
-
-
-
-
-
-
-
+random.seed(64) 
 
 
 class MNISTDataset(Dataset):
@@ -91,6 +79,7 @@ transform = transforms.ToTensor()
 #train_data = MNISTDataset(transform=ToTensor())
 
 #word2vec_相関係数
+
 model =  word2vec.Word2Vec.load("sample.model")
 word2vec_model = model
 labels = []
@@ -99,7 +88,10 @@ for word in model.wv.vocab:
     tokens.append(word2vec_model[word])
     labels.append(word)
 
+
+
 token_array = np.array(tokens) # numpy行列に変換
+#token_array = np.load('/home/oza/pre-experiment/glove/numpy_vector/300d_wiki.npy')
 print("length")
 print(token_array.shape)
 train_dataset = GloveDataset(token_array)
@@ -270,17 +262,14 @@ def predict(model):
     test_data = torch.tensor(token_array)
     test_data = test_data.to(device)
     x, mean, vae, z = model(test_data)
-    z = Variable(z, volatile=True).cpu().numpy()
+    x = Variable(x, volatile=True).cpu().numpy()
     ran_dim1_ab_tmp = []
     ran_dim1_ab = []
-    ran_dim1_ab = np.array([cos_sim(z[ran_idx_x[i]], z[ran_idx_y[i]]) for i in range(len(ran_idx))])   
+    ran_dim1_ab = np.array([cos_sim(x[ran_idx_x[i]], x[ran_idx_y[i]]) for i in range(len(ran_idx))])   
     print("************相関係数_dim1ver*******************")
     soukan =np.corrcoef(ran_cos_list, ran_dim1_ab)#重複なしの2単語間の相関係数(x:次元削減前のcos類似度, y:次元削減後(1)の差の絶対値)
     print(soukan[0][1])
     return soukan[0][1]
-
-
-
 
 
 
