@@ -24,8 +24,7 @@ check_list = []
 column_category_list = []
 category_list = []
 for file_name in pickle_dir:
-    dic = pickle_load('/home/oza/pre-experiment/glove/300d_dic/' + file_name)
-    #file_name = file_name.strip(".pickle")  #.picke削除
+    dic = pickle_load('/home/oza/pre-experiment/glove/300d_dic/' + file_name) 
     file_name = file_name.replace('.pickle', '') #.picke削除
     column_category_list.append(file_name)
     i += 1
@@ -62,6 +61,15 @@ clusterinfo = clusterinfo.drop(['cluster_id', 'category'])
 
 print(clusterinfo)
 
+'''
+#check program
+count = 0
+for i in cluster_labels:
+    if i == 9:
+        print(i)
+        count += 1
+print(count)
+'''
 
 my_plot = clusterinfo.T.plot(kind='bar', stacked=True, title="Mean Value of 4 Clusters") #, figsize=(5, 10))
 my_plot.figure.savefig('cluster_test1.png') 
