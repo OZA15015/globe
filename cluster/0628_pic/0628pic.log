@@ -1,0 +1,4753 @@
+(1852, 300)
+20ファイル
+                           c0  c1  c2  c3  c4  c5  ... c14 c15 c16 c17 c18 c19
+weapons-68                  0  28   0   0   0   3  ...   0   0   0   1   0   1
+circus-70                   0   0   2   7  10  16  ...   0   0   0   2   1   1
+country-100                 0   0   0   0   4   0  ...  34  62   0   0   0   0
+metals-23                   0   1   0   0   1   0  ...   0   0  21   0   0   0
+music_theory-81             0   0   1   7  23   2  ...   0   0   0   0   1   0
+house-120                   3   0   0   5  11   1  ...   0   0   4   2   0   8
+doctor-168                  1   1   0   1  25   1  ...   0   0   1   1   0   0
+christmas-125               9   0   2   4  14  20  ...   0   0   2   7   1   0
+carparts-77                 0   3   0   0  11   2  ...   0   0   0   1   0  42
+vacation-129                0   0   0   9  15   0  ...   0   0   0   0  27   0
+many-67                     0   3   2   1  22   2  ...   0   1   1   0   2   1
+desserts-29                 0   0   0   0   1   0  ...   0   0   0  23   0   0
+pirate-165                  1   5   3   0  19  19  ...   0   0   1   2  22   4
+happiness-81                1   0  24   1   6   5  ...   0   0   1   2   0   0
+adjectives_for_people-276   4   0  74   4  44   5  ...   0   0   1   2   0   0
+art-124                    14   0   4  42  15   1  ...   0   0  13   2   1   1
+bathroom-42                 1   0   0   0   1   1  ...   0   0   0   7   1   1
+castle-73                   1   2   0   1   2  47  ...   0   0   0   0   0   1
+cooking-116                 2   0   1   1  21   3  ...   0   0   1  41   0   2
+colors-89                  45   0   0   0   4   2  ...   0   1   2  12   0   0
+
+[20 rows x 20 columns]
+(1484, 300)
+20ファイル
+                    c0   c1  c2  c3  c4  c5  c6  ... c13 c14 c15 c16 c17 c18 c19
+mythical_beasts-50   0    2   0   0   0   1   0  ...   0   1   0   0   0   0   0
+computer-176         1    4   0   1  43   0  15  ...  83   2   1   0   2   1   2
+land_forms-148       0    1  72   1   2   3  12  ...   0   4   0   1   5  27   0
+container-75         1    0   0   0   1   0   5  ...   0   0   1   1   5   1   0
+dogs-33              0    1   0   0   0   0   0  ...   0   1  20   0   0   1   0
+plants-108           6    0   0   1   0   2   6  ...   0   2   0   2   0   0   2
+rooms-44             0    0   0   0   1   0   3  ...   0   0   0   2  35   0   0
+roadways-38          0    0   2  26   0   0   3  ...   0   2   0   0   0   0   0
+fruit-34            27    0   0   0   0   0   2  ...   1   0   0   0   0   0   0
+positive_words-247   0  138   0   0   1   1  80  ...   0  11   0   4   0   0   0
+astronomy-104        0    1   2   1   4  73   4  ...   0   2   0   1   0   1   0
+new_year-48          2    3   0   0   1   0   9  ...   0  18   0   1   0   0   2
+mammal-80            0    0   0   0   0   0   0  ...   0   1  47   0   0   0   1
+happy-23             0   14   0   0   1   0   1  ...   0   0   0   0   0   0   0
+camping-56           0    1   1   1   2   1   3  ...   0   4   0   0   5   4   4
+car-20               0    0   0   0   0   0   0  ...   0   0   0   0   0   0  19
+measurement-93       1    2   0   2   2   3  15  ...   3   3   0   0   0   0   1
+postal-70            0    1   0   1  11   0  27  ...   0   1   0   0   1   1   2
+beach-79             3    0   1   3   0   0   3  ...   0   3   4   0   0  16   3
+election-53          0    0   0   0   0   0   9  ...   0   5   0  35   1   0   0
+
+[20 rows x 20 columns]
+(1580, 300)
+20ファイル
+                c0  c1  c2  c3  c4  c5  c6  c7  ... c12 c13 c14 c15 c16 c17 c18 c19
+rocks-61         1   1   0   0   6   0   1   0  ...   0   1   0   0  43   0   5   2
+money-108        0   1  81   0   1   3   0   2  ...   1   1   1   2   1   0   0  12
+april_fool-44    0   0   1   1  34   0   0   0  ...   0   0   0   0   0   0   0   7
+fish-47          1   0   0   0   3   0   0   4  ...   0   1   0   0   0   0   0   0
+school-71        0   1   0   0   2  23   1   2  ...   3   0   0   2   1   0   0  24
+grammar-67       0   0   1   0   2   2   0   0  ...   0   0   0   0   0   0   0  13
+valentine-73     1   1   1   3  27   2   5   9  ...   1   0   6   1   0   0   2  13
+people-125       2   0   2   0  26   0   0  36  ...   0   0   1  13   0   1   0  33
+science-70       0   0   4   0   4   5   0   0  ...   0   0   0   1   1   0  12  13
+restaurant-111   0   0   1   0   6   4  54   4  ...  13   1   0   4   1   0   4   9
+clothes-125      1  93   0   0   6   5   0   6  ...   0   3   0   0   0   0   1   7
+jobs-169         3   0   1   0   4   4   0  51  ...   0   0   0  46   0  31   1   2
+virtues-108      0   0   3  63   3   0   0   3  ...   0   0   6   1   0   0   0  22
+housing-52       3   0   3   0   3   0   0   0  ...  42   0   0   0   0   0   0   0
+emotions-136     0   0   0   2  29   1   0   2  ...   1   0  54   0   0   0   1  29
+ocean-42         0   0   0   0   2   1   1   0  ...   0   0   0   0   0   0   7   1
+winter-84        5   5   0   0   9   1   2   0  ...   2   7   0   0   1   0  33   4
+foodweb-30       0   0   1   1   0   1   3   0  ...   0   0   0   0   0   0   3   1
+farm-123        49   0   3   0   4   1   7   2  ...   5   0   0   1   0   0   2   8
+vegetables-42    1   0   0   0   3   0  28   0  ...   0   0   0   0   0   0   0   1
+
+[20 rows x 20 columns]
+(1958, 300)
+20ファイル
+                    c0   c1  c2  c3  c4  c5  c6  ... c13 c14  c15 c16 c17 c18 c19
+animal-268           1    1   2   0   0   3  20  ...   4   0  114   0   0   0  10
+dentist-102          0    3  34   0   0  24   6  ...   2   2    2   3   1   6   4
+energy-95            0    0   1   1   0  24   2  ...   1   0    0   0   4   0   1
+math-100             0    0   4   2   0  34  10  ...   3   0    0   1   0   2   0
+legal-141            0    3   0   2   0  16   7  ...   5   0    0  95   0   1   0
+leaders-127          0    1   1   0   0   2   9  ...   5   0    0   1   0   0   0
+water-93             2    0   7   1   0   5   9  ...   2   0    0   0  30   1   1
+languages-115        0    0   0   0  53   0   5  ...   1   0    0   0   0   0   0
+insect-36            0    0   0   0   0   0   1  ...   0   0    0   0   0   0   0
+sciences-61          0    0   0   0   0   0   2  ...   0   0    0   0   0  55   0
+birthday-53          0    1   6   0   0  13   1  ...  21   4    0   0   0   0   3
+weather-137          0    1   4   1   0  19  12  ...  10   0    0   0   1   0   0
+negative_words-178   1  114   8   1   0  27   7  ...   0   0    0   3   0   0   0
+fall-37              5    0   1   1   0   3   4  ...   5   5    0   0   0   0   1
+big-60               0    1   3   4   0  26  10  ...   7   0    1   0   0   1   1
+furniture-51         0    0  25   2   0   1  10  ...   3   0    0   0   0   0   2
+carnival-59          0    2   2   2   0   1   8  ...  27   1    0   0   0   0   1
+food-277            51    3  10   1   0   7  12  ...   4  51    0   1   1   0  83
+reptiles-18          0    0   0   0   0   0   0  ...   0   0    0   0   0   0   0
+buildings-135        0    0   1  94   0   8   6  ...   8   0    0   0   0   3   0
+
+[20 rows x 20 columns]
+(1625, 300)
+20ファイル
+                        c0  c1  c2  c3  c4  c5  c6  ... c13 c14 c15 c16 c17 c18 c19
+flowers-45               0   0   0   2   0   2   0  ...   0   0  28   0   0   8   0
+dance-29                 0   0   0   1   2   0   0  ...   1   1  20   0   2   0   0
+tree-66                  1   0   0  11   1   0   0  ...   0   0   4   0   0  43   0
+cats-31                 15   1   0   1   2   0   0  ...   1   0   6   0   4   0   0
+constitution-97          0  57   0   0  16   8   0  ...   4   0   0   3   8   0   0
+military-192             1  14   0   0  24   2   1  ...  17  14   6  39  17   0  47
+cooking_tools-25         0   0   0  20   0   0   0  ...   0   1   1   0   0   0   0
+kitchen-69               0   0   0  26   1   2   0  ...   3   1   5   0   2   0   0
+bodies_of_water-79       0   1   1   1   2   0   2  ...   6   3   2   0   1   2   0
+boat-133                 0   1   0   1   4   3   0  ...  12  74   5   2  10   0   0
+family-123               0   7   0   0  16   3   1  ...   3   0   9   0   9   0   0
+driving-116              0   1   0   0   3  15  37  ...  39   0   2   0   9   0   0
+office-243               0  25   0   0  44  93   1  ...  12   2   2   1  35   0   0
+musical_instruments-61   0   0   1   1   2   0   1  ...   2   0   6   0   3   0   0
+yard-42                  0   1   0   6   0   0   5  ...   3   0   6   0   1   9   0
+biomes-45                0   0   0   0   1   0   0  ...   1   0   2   0   1  17   0
+baseball-70              0   0   0   0   9   1   0  ...   8   0   1   0   2   0   0
+geography-63             1   1   0   0   7   3  16  ...   8   0   0   0   5   1   0
+birds-120                4   1   0   2   4   0   1  ...   5   1  21   0   3   0   0
+body-115                 0   0  36   1   2   0   2  ...   6   0   0   0   5   0   0
+
+[20 rows x 20 columns]
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 56469.797
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 54243.57
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 53623.688
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 53375.242
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 53244.49
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 53141.83
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 53099.77
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 53072.41
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 53052.58
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 53038.19
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 53024.895
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 53019.51
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 53018.938
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 53018.938
+center shift 0.000000e+00 within tolerance 1.420280e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 76853.625
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 73879.36
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 73129.15
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 72794.875
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 72526.195
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 72364.734
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 72273.13
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 72161.02
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 72008.58
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 71912.96
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 71865.4
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 71850.266
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 71837.87
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 71833.64
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 71831.92
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 71829.59
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 71829.06
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 71828.59
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 71828.59
+center shift 0.000000e+00 within tolerance 1.478601e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 56337.598
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 54183.3
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 53459.44
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 53147.914
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 53019.37
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 52953.543
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 52898.14
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 52867.29
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 52856.96
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 52846.797
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 52837.773
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 52835.36
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 52833.832
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 52832.605
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 52832.14
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 52831.34
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 52830.305
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 52830.305
+center shift 0.000000e+00 within tolerance 1.420280e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 76418.516
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 73521.586
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 72382.95
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 71964.414
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 71721.46
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 71559.39
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 71465.99
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 71413.75
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 71396.32
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 71391.17
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 71379.47
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 71360.484
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 71358.13
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 71356.47
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 71356.47
+center shift 0.000000e+00 within tolerance 1.478601e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 55740.062
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 54092.543
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 53551.89
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 53354.918
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 53276.82
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 53219.668
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 53171.203
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 53136.56
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 53115.715
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 53097.223
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 53084.64
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 53072.582
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 53066.145
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 53060.645
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 53053.457
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 53043.617
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 53031.383
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 53027.734
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 53023.715
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 53020.875
+start iteration
+done sorting
+end inner loop
+Iteration 20, inertia 53020.875
+center shift 0.000000e+00 within tolerance 1.420280e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 77557.375
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 74073.48
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 73122.8
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 72575.75
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 72334.19
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 72156.73
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 72015.55
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 71961.93
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 71943.52
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 71930.89
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 71920.37
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 71913.0
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 71910.13
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 71902.88
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 71895.6
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 71894.52
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 71894.52
+center shift 0.000000e+00 within tolerance 1.478601e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 56512.33
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 54138.758
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 53562.105
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 53372.594
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 53305.016
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 53266.684
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 53242.71
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 53230.668
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 53214.12
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 53201.227
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 53198.906
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 53195.875
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 53194.203
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 53193.074
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 53192.22
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 53192.22
+center shift 0.000000e+00 within tolerance 1.420280e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 76177.766
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 73125.96
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 72371.64
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 72087.414
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 71916.625
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 71791.14
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 71713.72
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 71682.586
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 71661.54
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 71647.086
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 71636.08
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 71623.016
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 71613.31
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 71570.12
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 71527.48
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 71501.93
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 71492.086
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 71466.81
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 71457.99
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 71456.516
+start iteration
+done sorting
+end inner loop
+Iteration 20, inertia 71455.875
+start iteration
+done sorting
+end inner loop
+Iteration 21, inertia 71455.875
+center shift 0.000000e+00 within tolerance 1.478601e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 56169.723
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 54071.074
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 53468.152
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 53289.78
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 53193.76
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 53132.207
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 53094.77
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 53052.08
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 53009.684
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 52984.12
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 52964.418
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 52950.777
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 52944.28
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 52940.414
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 52934.113
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 52926.926
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 52917.74
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 52900.074
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 52878.613
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 52856.35
+start iteration
+done sorting
+end inner loop
+Iteration 20, inertia 52839.125
+start iteration
+done sorting
+end inner loop
+Iteration 21, inertia 52826.137
+start iteration
+done sorting
+end inner loop
+Iteration 22, inertia 52811.082
+start iteration
+done sorting
+end inner loop
+Iteration 23, inertia 52798.047
+start iteration
+done sorting
+end inner loop
+Iteration 24, inertia 52785.355
+start iteration
+done sorting
+end inner loop
+Iteration 25, inertia 52776.57
+start iteration
+done sorting
+end inner loop
+Iteration 26, inertia 52771.207
+start iteration
+done sorting
+end inner loop
+Iteration 27, inertia 52763.96
+start iteration
+done sorting
+end inner loop
+Iteration 28, inertia 52760.93
+start iteration
+done sorting
+end inner loop
+Iteration 29, inertia 52757.004
+start iteration
+done sorting
+end inner loop
+Iteration 30, inertia 52755.586
+start iteration
+done sorting
+end inner loop
+Iteration 31, inertia 52754.71
+start iteration
+done sorting
+end inner loop
+Iteration 32, inertia 52753.293
+start iteration
+done sorting
+end inner loop
+Iteration 33, inertia 52751.703
+start iteration
+done sorting
+end inner loop
+Iteration 34, inertia 52751.703
+center shift 0.000000e+00 within tolerance 1.420280e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 76775.516
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 73501.92
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 72683.75
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 72266.55
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 72068.76
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 71972.1
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 71926.625
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 71901.875
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 71880.04
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 71861.766
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 71850.28
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 71835.23
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 71826.97
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 71820.34
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 71816.22
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 71812.53
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 71811.414
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 71809.37
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 71806.16
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 71804.59
+start iteration
+done sorting
+end inner loop
+Iteration 20, inertia 71800.195
+start iteration
+done sorting
+end inner loop
+Iteration 21, inertia 71796.87
+start iteration
+done sorting
+end inner loop
+Iteration 22, inertia 71794.805
+start iteration
+done sorting
+end inner loop
+Iteration 23, inertia 71794.805
+center shift 0.000000e+00 within tolerance 1.478601e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 57566.652
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 54703.176
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 53715.816
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 53427.785
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 53303.953
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 53205.03
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 53141.586
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 53109.273
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 53081.543
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 53060.07
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 53048.23
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 53039.22
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 53031.8
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 53023.64
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 53021.18
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 53018.42
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 53014.773
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 53011.79
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 53007.16
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 53003.19
+start iteration
+done sorting
+end inner loop
+Iteration 20, inertia 53001.46
+start iteration
+done sorting
+end inner loop
+Iteration 21, inertia 53000.867
+start iteration
+done sorting
+end inner loop
+Iteration 22, inertia 52999.605
+start iteration
+done sorting
+end inner loop
+Iteration 23, inertia 52999.605
+center shift 0.000000e+00 within tolerance 1.420280e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 76803.73
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 73528.38
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 72851.33
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 72497.76
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 72209.48
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 71972.17
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 71850.09
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 71751.11
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 71677.01
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 71629.09
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 71579.375
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 71544.42
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 71524.92
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 71509.85
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 71496.29
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 71488.7
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 71488.234
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 71488.234
+center shift 0.000000e+00 within tolerance 1.478601e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 56442.055
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 54551.566
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 54041.89
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 53849.27
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 53699.793
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 53535.22
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 53379.016
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 53270.324
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 53186.484
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 53139.17
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 53098.5
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 53058.926
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 53030.17
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 53005.895
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 52979.23
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 52964.133
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 52948.527
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 52923.67
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 52900.242
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 52886.01
+start iteration
+done sorting
+end inner loop
+Iteration 20, inertia 52869.973
+start iteration
+done sorting
+end inner loop
+Iteration 21, inertia 52852.582
+start iteration
+done sorting
+end inner loop
+Iteration 22, inertia 52837.77
+start iteration
+done sorting
+end inner loop
+Iteration 23, inertia 52831.246
+start iteration
+done sorting
+end inner loop
+Iteration 24, inertia 52829.785
+start iteration
+done sorting
+end inner loop
+Iteration 25, inertia 52829.215
+start iteration
+done sorting
+end inner loop
+Iteration 26, inertia 52829.215
+center shift 0.000000e+00 within tolerance 1.420280e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 75588.445
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 72973.99
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 72270.83
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 72016.06
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 71891.664
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 71806.96
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 71754.336
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 71716.65
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 71696.35
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 71685.5
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 71672.14
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 71658.11
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 71651.484
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 71649.51
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 71643.87
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 71633.89
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 71630.61
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 71630.055
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 71630.055
+center shift 0.000000e+00 within tolerance 1.478601e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 56203.73
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 54319.36
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 53872.41
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 53639.195
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 53460.43
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 53339.53
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 53275.133
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 53232.69
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 53208.098
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 53195.742
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 53189.406
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 53179.84
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 53175.574
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 53170.38
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 53165.55
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 53161.71
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 53152.67
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 53151.07
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 53151.07
+center shift 0.000000e+00 within tolerance 1.420280e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 76711.34
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 73733.3
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 72824.57
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 72472.67
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 72298.61
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 72166.91
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 72035.94
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 71934.73
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 71849.93
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 71791.83
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 71751.24
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 71701.1
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 71656.43
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 71586.05
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 71512.65
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 71482.164
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 71466.89
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 71456.39
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 71449.03
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 71441.86
+start iteration
+done sorting
+end inner loop
+Iteration 20, inertia 71438.59
+start iteration
+done sorting
+end inner loop
+Iteration 21, inertia 71437.91
+start iteration
+done sorting
+end inner loop
+Iteration 22, inertia 71437.91
+center shift 0.000000e+00 within tolerance 1.478601e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 55768.805
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 53877.79
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 53456.613
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 53272.535
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 53142.215
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 53035.617
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 52939.97
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 52892.414
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 52836.145
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 52756.117
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 52706.098
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 52674.832
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 52650.22
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 52632.02
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 52615.402
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 52599.145
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 52581.758
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 52571.7
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 52568.117
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 52556.46
+start iteration
+done sorting
+end inner loop
+Iteration 20, inertia 52556.195
+start iteration
+done sorting
+end inner loop
+Iteration 21, inertia 52556.195
+center shift 0.000000e+00 within tolerance 1.420280e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 77518.59
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 74482.32
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 73688.51
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 73439.76
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 73272.78
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 73100.83
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 72849.75
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 72656.95
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 72581.85
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 72527.516
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 72497.875
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 72462.81
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 72422.21
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 72399.2
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 72358.984
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 72307.375
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 72249.71
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 72154.484
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 72020.62
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 71823.27
+start iteration
+done sorting
+end inner loop
+Iteration 20, inertia 71512.16
+start iteration
+done sorting
+end inner loop
+Iteration 21, inertia 71400.16
+start iteration
+done sorting
+end inner loop
+Iteration 22, inertia 71361.91
+start iteration
+done sorting
+end inner loop
+Iteration 23, inertia 71351.65
+start iteration
+done sorting
+end inner loop
+Iteration 24, inertia 71349.695
+start iteration
+done sorting
+end inner loop
+Iteration 25, inertia 71348.805
+start iteration
+done sorting
+end inner loop
+Iteration 26, inertia 71346.414
+start iteration
+done sorting
+end inner loop
+Iteration 27, inertia 71337.95
+start iteration
+done sorting
+end inner loop
+Iteration 28, inertia 71322.42
+start iteration
+done sorting
+end inner loop
+Iteration 29, inertia 71316.82
+start iteration
+done sorting
+end inner loop
+Iteration 30, inertia 71315.44
+start iteration
+done sorting
+end inner loop
+Iteration 31, inertia 71315.44
+center shift 0.000000e+00 within tolerance 1.478601e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 56754.14
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 54378.375
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 53762.215
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 53526.65
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 53404.316
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 53346.348
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 53317.875
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 53298.7
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 53281.336
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 53273.465
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 53268.363
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 53261.19
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 53256.734
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 53253.785
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 53249.62
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 53245.16
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 53241.67
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 53240.117
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 53240.117
+center shift 0.000000e+00 within tolerance 1.420280e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 77186.15
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 74174.914
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 73063.984
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 72527.87
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 72199.555
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 71989.56
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 71899.63
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 71868.055
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 71851.35
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 71839.97
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 71827.875
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 71819.76
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 71813.99
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 71798.25
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 71779.63
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 71755.336
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 71740.44
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 71729.22
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 71718.4
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 71705.47
+start iteration
+done sorting
+end inner loop
+Iteration 20, inertia 71698.18
+start iteration
+done sorting
+end inner loop
+Iteration 21, inertia 71689.086
+start iteration
+done sorting
+end inner loop
+Iteration 22, inertia 71684.305
+start iteration
+done sorting
+end inner loop
+Iteration 23, inertia 71674.97
+start iteration
+done sorting
+end inner loop
+Iteration 24, inertia 71665.69
+start iteration
+done sorting
+end inner loop
+Iteration 25, inertia 71663.95
+start iteration
+done sorting
+end inner loop
+Iteration 26, inertia 71656.41
+start iteration
+done sorting
+end inner loop
+Iteration 27, inertia 71654.28
+start iteration
+done sorting
+end inner loop
+Iteration 28, inertia 71653.625
+start iteration
+done sorting
+end inner loop
+Iteration 29, inertia 71653.625
+center shift 0.000000e+00 within tolerance 1.478601e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 69754.31
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 66578.766
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 65657.4
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 65282.84
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 65093.63
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 65030.918
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 65009.51
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 64988.348
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 64952.523
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 64927.45
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 64908.44
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 64897.516
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 64888.496
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 64870.727
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 64856.75
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 64849.434
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 64843.96
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 64841.527
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 64839.066
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 64837.99
+start iteration
+done sorting
+end inner loop
+Iteration 20, inertia 64836.93
+start iteration
+done sorting
+end inner loop
+Iteration 21, inertia 64834.715
+start iteration
+done sorting
+end inner loop
+Iteration 22, inertia 64832.918
+start iteration
+done sorting
+end inner loop
+Iteration 23, inertia 64832.457
+start iteration
+done sorting
+end inner loop
+Iteration 24, inertia 64832.457
+center shift 0.000000e+00 within tolerance 1.383489e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 58338.906
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 55962.184
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 55336.598
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 55049.39
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 54926.96
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 54851.0
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 54788.0
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 54716.56
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 54634.363
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 54517.46
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 54466.9
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 54425.43
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 54394.418
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 54383.938
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 54377.074
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 54373.074
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 54362.016
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 54348.81
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 54323.332
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 54298.43
+start iteration
+done sorting
+end inner loop
+Iteration 20, inertia 54285.17
+start iteration
+done sorting
+end inner loop
+Iteration 21, inertia 54279.312
+start iteration
+done sorting
+end inner loop
+Iteration 22, inertia 54276.895
+start iteration
+done sorting
+end inner loop
+Iteration 23, inertia 54276.895
+center shift 0.000000e+00 within tolerance 1.403256e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 61657.312
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 59213.855
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 58650.19
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 58410.03
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 58285.527
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 58213.21
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 58189.44
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 58182.11
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 58182.11
+center shift 0.000000e+00 within tolerance 1.464727e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 68452.36
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 66169.21
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 65569.984
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 65293.746
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 65117.844
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 64974.734
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 64872.945
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 64778.18
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 64687.67
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 64620.23
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 64572.836
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 64528.69
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 64491.383
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 64464.23
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 64439.99
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 64418.16
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 64407.73
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 64400.676
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 64397.35
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 64396.08
+start iteration
+done sorting
+end inner loop
+Iteration 20, inertia 64395.402
+start iteration
+done sorting
+end inner loop
+Iteration 21, inertia 64394.125
+start iteration
+done sorting
+end inner loop
+Iteration 22, inertia 64394.125
+center shift 0.000000e+00 within tolerance 1.383489e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 59352.344
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 56040.28
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 55125.965
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 54757.074
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 54599.324
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 54502.254
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 54444.22
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 54400.906
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 54352.824
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 54319.676
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 54284.305
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 54261.363
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 54239.73
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 54217.03
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 54185.36
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 54144.56
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 54131.145
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 54128.13
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 54123.027
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 54120.836
+start iteration
+done sorting
+end inner loop
+Iteration 20, inertia 54115.676
+start iteration
+done sorting
+end inner loop
+Iteration 21, inertia 54110.61
+start iteration
+done sorting
+end inner loop
+Iteration 22, inertia 54108.258
+start iteration
+done sorting
+end inner loop
+Iteration 23, inertia 54105.707
+start iteration
+done sorting
+end inner loop
+Iteration 24, inertia 54102.76
+start iteration
+done sorting
+end inner loop
+Iteration 25, inertia 54098.277
+start iteration
+done sorting
+end inner loop
+Iteration 26, inertia 54096.668
+start iteration
+done sorting
+end inner loop
+Iteration 27, inertia 54096.668
+center shift 0.000000e+00 within tolerance 1.403256e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 62057.71
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 59849.055
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 59181.707
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 58906.824
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 58724.81
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 58594.234
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 58494.83
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 58415.023
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 58368.457
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 58336.863
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 58321.047
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 58310.4
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 58306.855
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 58304.27
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 58304.27
+center shift 0.000000e+00 within tolerance 1.464727e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 69356.01
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 65943.4
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 65247.023
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 65045.2
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 64922.09
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 64847.723
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 64800.918
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 64779.14
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 64767.73
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 64757.023
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 64742.16
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 64734.27
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 64725.613
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 64722.03
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 64718.082
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 64716.7
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 64714.582
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 64713.188
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 64712.418
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 64711.05
+start iteration
+done sorting
+end inner loop
+Iteration 20, inertia 64710.312
+start iteration
+done sorting
+end inner loop
+Iteration 21, inertia 64709.645
+start iteration
+done sorting
+end inner loop
+Iteration 22, inertia 64708.42
+start iteration
+done sorting
+end inner loop
+Iteration 23, inertia 64706.92
+start iteration
+done sorting
+end inner loop
+Iteration 24, inertia 64706.92
+center shift 0.000000e+00 within tolerance 1.383489e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 59872.8
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 56865.766
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 55873.523
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 55527.156
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 55289.363
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 55102.586
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 54952.81
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 54858.086
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 54785.727
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 54725.566
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 54668.67
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 54623.902
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 54617.06
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 54612.023
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 54608.598
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 54601.562
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 54593.164
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 54588.82
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 54583.16
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 54582.477
+start iteration
+done sorting
+end inner loop
+Iteration 20, inertia 54581.457
+start iteration
+done sorting
+end inner loop
+Iteration 21, inertia 54580.547
+start iteration
+done sorting
+end inner loop
+Iteration 22, inertia 54579.62
+start iteration
+done sorting
+end inner loop
+Iteration 23, inertia 54578.52
+start iteration
+done sorting
+end inner loop
+Iteration 24, inertia 54578.52
+center shift 0.000000e+00 within tolerance 1.403256e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 62398.53
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 59869.168
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 59428.0
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 59199.758
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 59054.438
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 58936.984
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 58765.312
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 58648.312
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 58519.152
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 58381.957
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 58343.598
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 58330.504
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 58325.18
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 58319.07
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 58314.62
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 58309.375
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 58305.45
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 58305.45
+center shift 0.000000e+00 within tolerance 1.464727e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 68704.625
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 65913.164
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 65227.08
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 64892.39
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 64707.496
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 64592.273
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 64498.234
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 64429.777
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 64376.047
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 64332.152
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 64271.113
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 64218.47
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 64183.254
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 64152.715
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 64131.836
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 64115.016
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 64110.355
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 64106.36
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 64103.832
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 64103.832
+center shift 0.000000e+00 within tolerance 1.383489e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 59202.03
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 56673.844
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 55877.73
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 55345.637
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 54937.383
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 54700.395
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 54577.992
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 54491.215
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 54413.027
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 54366.19
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 54327.184
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 54294.61
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 54253.98
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 54228.625
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 54210.152
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 54199.043
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 54188.965
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 54179.094
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 54173.266
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 54171.52
+start iteration
+done sorting
+end inner loop
+Iteration 20, inertia 54171.16
+start iteration
+done sorting
+end inner loop
+Iteration 21, inertia 54170.71
+start iteration
+done sorting
+end inner loop
+Iteration 22, inertia 54170.71
+center shift 0.000000e+00 within tolerance 1.403256e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 61573.465
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 59389.61
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 58828.53
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 58629.105
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 58528.035
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 58452.516
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 58420.734
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 58389.965
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 58366.566
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 58359.074
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 58354.11
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 58351.61
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 58350.395
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 58350.395
+center shift 0.000000e+00 within tolerance 1.464727e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 68276.45
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 66135.8
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 65399.11
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 65120.508
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 64919.83
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 64724.387
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 64568.47
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 64453.965
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 64391.22
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 64341.055
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 64300.76
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 64262.387
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 64244.41
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 64231.418
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 64228.84
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 64226.695
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 64223.156
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 64220.88
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 64220.445
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 64220.445
+center shift 0.000000e+00 within tolerance 1.383489e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 58524.766
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 55663.668
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 55015.957
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 54766.195
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 54627.17
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 54549.777
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 54505.74
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 54476.812
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 54437.81
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 54402.484
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 54380.32
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 54352.69
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 54326.527
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 54317.617
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 54313.926
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 54312.938
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 54310.535
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 54308.508
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 54305.254
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 54303.15
+start iteration
+done sorting
+end inner loop
+Iteration 20, inertia 54302.152
+start iteration
+done sorting
+end inner loop
+Iteration 21, inertia 54300.895
+start iteration
+done sorting
+end inner loop
+Iteration 22, inertia 54300.008
+start iteration
+done sorting
+end inner loop
+Iteration 23, inertia 54298.117
+start iteration
+done sorting
+end inner loop
+Iteration 24, inertia 54297.12
+start iteration
+done sorting
+end inner loop
+Iteration 25, inertia 54297.12
+center shift 0.000000e+00 within tolerance 1.403256e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 63744.992
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 60435.57
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 59421.316
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 58962.08
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 58761.637
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 58647.547
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 58573.562
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 58519.055
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 58490.664
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 58460.258
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 58443.613
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 58425.105
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 58403.68
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 58393.51
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 58384.844
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 58370.223
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 58366.08
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 58363.344
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 58362.22
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 58362.22
+center shift 0.000000e+00 within tolerance 1.464727e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 68055.19
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 65538.16
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 64822.59
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 64529.785
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 64414.508
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 64360.17
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 64310.305
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 64255.137
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 64211.613
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 64173.184
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 64158.996
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 64149.234
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 64141.184
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 64137.727
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 64136.887
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 64136.887
+center shift 0.000000e+00 within tolerance 1.383489e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 60085.348
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 56734.36
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 55416.195
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 54911.574
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 54682.035
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 54526.984
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 54414.35
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 54366.62
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 54324.598
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 54301.297
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 54282.99
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 54272.414
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 54266.727
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 54262.72
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 54260.68
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 54259.863
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 54259.188
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 54256.957
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 54253.83
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 54252.46
+start iteration
+done sorting
+end inner loop
+Iteration 20, inertia 54250.992
+start iteration
+done sorting
+end inner loop
+Iteration 21, inertia 54250.992
+center shift 0.000000e+00 within tolerance 1.403256e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 62974.13
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 60690.57
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 60071.18
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 59700.312
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 59347.348
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 59120.195
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 58921.65
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 58738.793
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 58604.918
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 58522.027
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 58493.348
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 58482.258
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 58468.918
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 58458.004
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 58444.258
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 58434.08
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 58430.062
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 58426.16
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 58422.03
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 58422.03
+center shift 0.000000e+00 within tolerance 1.464727e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 68070.11
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 65965.29
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 65405.117
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 65139.242
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 64907.137
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 64768.184
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 64690.03
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 64642.824
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 64604.71
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 64568.38
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 64540.598
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 64524.766
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 64512.973
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 64501.83
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 64490.32
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 64480.89
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 64475.445
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 64469.945
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 64460.99
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 64457.59
+start iteration
+done sorting
+end inner loop
+Iteration 20, inertia 64456.81
+start iteration
+done sorting
+end inner loop
+Iteration 21, inertia 64456.14
+start iteration
+done sorting
+end inner loop
+Iteration 22, inertia 64456.14
+center shift 0.000000e+00 within tolerance 1.383489e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 58021.2
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 56032.234
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 55383.25
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 55061.637
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 54809.17
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 54684.9
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 54603.316
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 54521.43
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 54417.945
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 54326.69
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 54257.668
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 54217.234
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 54198.55
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 54182.19
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 54173.074
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 54168.27
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 54166.758
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 54165.88
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 54165.88
+center shift 0.000000e+00 within tolerance 1.403256e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 62823.684
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 60206.875
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 59505.14
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 59118.695
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 58918.375
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 58736.15
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 58634.848
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 58546.805
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 58455.305
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 58383.785
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 58302.203
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 58251.836
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 58227.14
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 58211.816
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 58201.836
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 58190.25
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 58185.977
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 58183.594
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 58181.547
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 58180.43
+start iteration
+done sorting
+end inner loop
+Iteration 20, inertia 58180.43
+center shift 0.000000e+00 within tolerance 1.464727e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 68584.72
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 65842.98
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 65160.664
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 64803.844
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 64536.29
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 64364.742
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 64270.965
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 64217.453
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 64186.277
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 64172.207
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 64164.723
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 64150.656
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 64145.17
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 64141.645
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 64137.727
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 64134.99
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 64131.137
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 64124.055
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 64116.48
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 64111.91
+start iteration
+done sorting
+end inner loop
+Iteration 20, inertia 64111.12
+start iteration
+done sorting
+end inner loop
+Iteration 21, inertia 64110.176
+start iteration
+done sorting
+end inner loop
+Iteration 22, inertia 64110.176
+center shift 0.000000e+00 within tolerance 1.383489e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 58020.727
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 55601.09
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 54977.094
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 54760.508
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 54673.58
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 54597.48
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 54502.71
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 54407.35
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 54359.016
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 54318.15
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 54291.246
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 54272.62
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 54261.145
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 54254.902
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 54249.137
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 54244.668
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 54243.47
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 54242.99
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 54242.99
+center shift 0.000000e+00 within tolerance 1.403256e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 62588.01
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 60222.656
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 59519.66
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 59213.01
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 59078.547
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 59003.562
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 58934.508
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 58860.082
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 58825.95
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 58780.887
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 58747.707
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 58728.746
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 58714.85
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 58703.547
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 58692.53
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 58677.984
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 58668.027
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 58654.023
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 58637.184
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 58614.707
+start iteration
+done sorting
+end inner loop
+Iteration 20, inertia 58604.008
+start iteration
+done sorting
+end inner loop
+Iteration 21, inertia 58599.508
+start iteration
+done sorting
+end inner loop
+Iteration 22, inertia 58596.37
+start iteration
+done sorting
+end inner loop
+Iteration 23, inertia 58595.656
+start iteration
+done sorting
+end inner loop
+Iteration 24, inertia 58594.61
+start iteration
+done sorting
+end inner loop
+Iteration 25, inertia 58593.633
+start iteration
+done sorting
+end inner loop
+Iteration 26, inertia 58593.633
+center shift 0.000000e+00 within tolerance 1.464727e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 69365.234
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 66082.92
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 65235.945
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 64903.434
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 64737.105
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 64632.973
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 64564.855
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 64526.582
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 64503.605
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 64483.203
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 64458.473
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 64425.137
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 64391.207
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 64363.086
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 64352.395
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 64340.832
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 64320.297
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 64305.887
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 64293.21
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 64284.867
+start iteration
+done sorting
+end inner loop
+Iteration 20, inertia 64272.14
+start iteration
+done sorting
+end inner loop
+Iteration 21, inertia 64258.516
+start iteration
+done sorting
+end inner loop
+Iteration 22, inertia 64243.258
+start iteration
+done sorting
+end inner loop
+Iteration 23, inertia 64222.617
+start iteration
+done sorting
+end inner loop
+Iteration 24, inertia 64192.08
+start iteration
+done sorting
+end inner loop
+Iteration 25, inertia 64178.0
+start iteration
+done sorting
+end inner loop
+Iteration 26, inertia 64167.695
+start iteration
+done sorting
+end inner loop
+Iteration 27, inertia 64149.81
+start iteration
+done sorting
+end inner loop
+Iteration 28, inertia 64131.566
+start iteration
+done sorting
+end inner loop
+Iteration 29, inertia 64119.793
+start iteration
+done sorting
+end inner loop
+Iteration 30, inertia 64114.707
+start iteration
+done sorting
+end inner loop
+Iteration 31, inertia 64113.11
+start iteration
+done sorting
+end inner loop
+Iteration 32, inertia 64110.395
+start iteration
+done sorting
+end inner loop
+Iteration 33, inertia 64108.652
+start iteration
+done sorting
+end inner loop
+Iteration 34, inertia 64105.406
+start iteration
+done sorting
+end inner loop
+Iteration 35, inertia 64101.414
+start iteration
+done sorting
+end inner loop
+Iteration 36, inertia 64100.4
+start iteration
+done sorting
+end inner loop
+Iteration 37, inertia 64098.87
+start iteration
+done sorting
+end inner loop
+Iteration 38, inertia 64097.277
+start iteration
+done sorting
+end inner loop
+Iteration 39, inertia 64095.42
+start iteration
+done sorting
+end inner loop
+Iteration 40, inertia 64093.02
+start iteration
+done sorting
+end inner loop
+Iteration 41, inertia 64093.02
+center shift 0.000000e+00 within tolerance 1.383489e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 59983.27
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 56525.312
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 55445.59
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 54995.785
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 54812.504
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 54743.066
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 54691.16
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 54651.35
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 54595.227
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 54509.516
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 54493.582
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 54485.4
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 54480.195
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 54476.12
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 54474.477
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 54474.477
+center shift 0.000000e+00 within tolerance 1.403256e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 62739.492
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 60272.61
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 59568.082
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 59306.258
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 59188.395
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 59101.99
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 59042.62
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 58994.83
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 58945.887
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 58897.504
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 58859.05
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 58842.094
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 58823.844
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 58799.57
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 58786.2
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 58775.715
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 58769.027
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 58758.5
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 58753.562
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 58750.35
+start iteration
+done sorting
+end inner loop
+Iteration 20, inertia 58743.188
+start iteration
+done sorting
+end inner loop
+Iteration 21, inertia 58739.625
+start iteration
+done sorting
+end inner loop
+Iteration 22, inertia 58736.883
+start iteration
+done sorting
+end inner loop
+Iteration 23, inertia 58731.043
+start iteration
+done sorting
+end inner loop
+Iteration 24, inertia 58723.434
+start iteration
+done sorting
+end inner loop
+Iteration 25, inertia 58718.508
+start iteration
+done sorting
+end inner loop
+Iteration 26, inertia 58714.836
+start iteration
+done sorting
+end inner loop
+Iteration 27, inertia 58711.863
+start iteration
+done sorting
+end inner loop
+Iteration 28, inertia 58706.688
+start iteration
+done sorting
+end inner loop
+Iteration 29, inertia 58700.406
+start iteration
+done sorting
+end inner loop
+Iteration 30, inertia 58693.883
+start iteration
+done sorting
+end inner loop
+Iteration 31, inertia 58686.48
+start iteration
+done sorting
+end inner loop
+Iteration 32, inertia 58676.098
+start iteration
+done sorting
+end inner loop
+Iteration 33, inertia 58664.855
+start iteration
+done sorting
+end inner loop
+Iteration 34, inertia 58656.023
+start iteration
+done sorting
+end inner loop
+Iteration 35, inertia 58647.625
+start iteration
+done sorting
+end inner loop
+Iteration 36, inertia 58641.96
+start iteration
+done sorting
+end inner loop
+Iteration 37, inertia 58632.062
+start iteration
+done sorting
+end inner loop
+Iteration 38, inertia 58627.16
+start iteration
+done sorting
+end inner loop
+Iteration 39, inertia 58622.15
+start iteration
+done sorting
+end inner loop
+Iteration 40, inertia 58620.42
+start iteration
+done sorting
+end inner loop
+Iteration 41, inertia 58619.484
+start iteration
+done sorting
+end inner loop
+Iteration 42, inertia 58619.484
+center shift 0.000000e+00 within tolerance 1.464727e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 68175.65
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 65662.2
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 65065.14
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 64821.23
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 64652.67
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 64560.727
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 64505.797
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 64446.39
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 64375.758
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 64334.895
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 64316.312
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 64304.027
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 64278.61
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 64251.12
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 64231.453
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 64208.79
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 64194.508
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 64179.76
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 64152.938
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 64106.582
+start iteration
+done sorting
+end inner loop
+Iteration 20, inertia 64086.19
+start iteration
+done sorting
+end inner loop
+Iteration 21, inertia 64064.727
+start iteration
+done sorting
+end inner loop
+Iteration 22, inertia 64050.094
+start iteration
+done sorting
+end inner loop
+Iteration 23, inertia 64039.47
+start iteration
+done sorting
+end inner loop
+Iteration 24, inertia 64027.01
+start iteration
+done sorting
+end inner loop
+Iteration 25, inertia 64008.926
+start iteration
+done sorting
+end inner loop
+Iteration 26, inertia 63991.18
+start iteration
+done sorting
+end inner loop
+Iteration 27, inertia 63977.965
+start iteration
+done sorting
+end inner loop
+Iteration 28, inertia 63975.03
+start iteration
+done sorting
+end inner loop
+Iteration 29, inertia 63972.426
+start iteration
+done sorting
+end inner loop
+Iteration 30, inertia 63963.39
+start iteration
+done sorting
+end inner loop
+Iteration 31, inertia 63951.83
+start iteration
+done sorting
+end inner loop
+Iteration 32, inertia 63947.58
+start iteration
+done sorting
+end inner loop
+Iteration 33, inertia 63937.344
+start iteration
+done sorting
+end inner loop
+Iteration 34, inertia 63930.85
+start iteration
+done sorting
+end inner loop
+Iteration 35, inertia 63919.74
+start iteration
+done sorting
+end inner loop
+Iteration 36, inertia 63913.27
+start iteration
+done sorting
+end inner loop
+Iteration 37, inertia 63909.484
+start iteration
+done sorting
+end inner loop
+Iteration 38, inertia 63904.707
+start iteration
+done sorting
+end inner loop
+Iteration 39, inertia 63902.48
+start iteration
+done sorting
+end inner loop
+Iteration 40, inertia 63900.47
+start iteration
+done sorting
+end inner loop
+Iteration 41, inertia 63899.9
+start iteration
+done sorting
+end inner loop
+Iteration 42, inertia 63897.73
+start iteration
+done sorting
+end inner loop
+Iteration 43, inertia 63895.953
+start iteration
+done sorting
+end inner loop
+Iteration 44, inertia 63895.953
+center shift 0.000000e+00 within tolerance 1.383489e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 57860.562
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 55885.81
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 55214.57
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 54876.69
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 54727.434
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 54644.3
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 54607.863
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 54583.613
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 54539.848
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 54496.65
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 54466.25
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 54444.91
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 54435.54
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 54430.37
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 54428.418
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 54426.39
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 54425.945
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 54425.945
+center shift 0.000000e+00 within tolerance 1.403256e-05
+Initialization complete
+start iteration
+done sorting
+end inner loop
+Iteration 0, inertia 62625.316
+start iteration
+done sorting
+end inner loop
+Iteration 1, inertia 59777.727
+start iteration
+done sorting
+end inner loop
+Iteration 2, inertia 59099.25
+start iteration
+done sorting
+end inner loop
+Iteration 3, inertia 58895.734
+start iteration
+done sorting
+end inner loop
+Iteration 4, inertia 58800.902
+start iteration
+done sorting
+end inner loop
+Iteration 5, inertia 58743.867
+start iteration
+done sorting
+end inner loop
+Iteration 6, inertia 58677.066
+start iteration
+done sorting
+end inner loop
+Iteration 7, inertia 58594.3
+start iteration
+done sorting
+end inner loop
+Iteration 8, inertia 58550.758
+start iteration
+done sorting
+end inner loop
+Iteration 9, inertia 58515.52
+start iteration
+done sorting
+end inner loop
+Iteration 10, inertia 58494.98
+start iteration
+done sorting
+end inner loop
+Iteration 11, inertia 58488.7
+start iteration
+done sorting
+end inner loop
+Iteration 12, inertia 58487.715
+start iteration
+done sorting
+end inner loop
+Iteration 13, inertia 58486.215
+start iteration
+done sorting
+end inner loop
+Iteration 14, inertia 58481.457
+start iteration
+done sorting
+end inner loop
+Iteration 15, inertia 58462.664
+start iteration
+done sorting
+end inner loop
+Iteration 16, inertia 58415.074
+start iteration
+done sorting
+end inner loop
+Iteration 17, inertia 58380.555
+start iteration
+done sorting
+end inner loop
+Iteration 18, inertia 58364.324
+start iteration
+done sorting
+end inner loop
+Iteration 19, inertia 58354.98
+start iteration
+done sorting
+end inner loop
+Iteration 20, inertia 58352.973
+start iteration
+done sorting
+end inner loop
+Iteration 21, inertia 58350.297
+start iteration
+done sorting
+end inner loop
+Iteration 22, inertia 58344.582
+start iteration
+done sorting
+end inner loop
+Iteration 23, inertia 58338.688
+start iteration
+done sorting
+end inner loop
+Iteration 24, inertia 58336.934
+start iteration
+done sorting
+end inner loop
+Iteration 25, inertia 58335.234
+start iteration
+done sorting
+end inner loop
+Iteration 26, inertia 58333.92
+start iteration
+done sorting
+end inner loop
+Iteration 27, inertia 58333.113
+start iteration
+done sorting
+end inner loop
+Iteration 28, inertia 58333.113
+center shift 0.000000e+00 within tolerance 1.464727e-05

@@ -57,12 +57,12 @@ for file_name in pickle_dir:
         clusterinfo = clusterinfo.drop(['cluster_id', 'category'])
         print(clusterinfo)
 
-        my_plot = clusterinfo.T.plot(kind='bar', stacked=True, title="Mean Value of 4 Clusters") #, figsize=(5, 10))
-        my_plot.figure.savefig('cluster_test' + str(counter) + '.png') 
+        my_plot = clusterinfo.T.plot(kind='bar', stacked=True, title= "Split" + str(n_clusters) + "Clusters") #, figsize=(5, 10))
+        my_plot.figure.savefig('0628_pic/cluster_test' + str(counter) + '.png') 
         my_plot.set_xticklabels(my_plot.xaxis.get_majorticklabels(), rotation=0)
 
         my_plot.legend(bbox_to_anchor=(0, -0.1), loc='upper left', borderaxespad=0)
-        my_plot.figure.savefig('cluster_test' + str(counter + 1) + '.png')
+        my_plot.figure.savefig('0628_pic/cluster_test' + str(counter + 1) + '.png')
         check_list = []
         column_category_list = []
         category_list = []
